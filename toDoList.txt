@@ -1,1 +1,3 @@
 Ceci est un fichier txt qui affiche la liste des actions à effectuer :
+1- Améliorer le script hello.js
+2- Ecrire le pseudo code correspondant
